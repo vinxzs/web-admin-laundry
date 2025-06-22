@@ -6,8 +6,8 @@ Teknologi:
 
 User login
 1. Akun admin
-    Username : admin
-    Password : 54321
-
-    Username : admin1
-    Password : admin123
+    - Username : admin
+    - Password : 54321
+    - 
+    - Username : admin1
+    - Password : admin123
